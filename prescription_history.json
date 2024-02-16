@@ -1,0 +1,1 @@
+{"1": {"CustomerID": "3", "CustomerName": "mahesh", "Medicines": {"Paracetamol": 10, "Aspirin": 5}, "TotalAmount": 34.0, "Paid": true, "Date": "2024-02-16 18:23:50"}, "2": {"CustomerID": "1", "CustomerName": "test", "Medicines": {"Aspirin": 2}, "TotalAmount": 3.6, "Paid": true, "Date": "2024-02-16 18:25:15"}}
